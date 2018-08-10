@@ -30,8 +30,14 @@ public class Question3 {
 	public static void main(String[] args) {
 		int[] a= {1,2,4,6,7,9};
 		Question3 q3=new Question3(10, a);
+		
+		long startTime = System.nanoTime();
+		
 		System.out.println(q3.getMissingNum());
 
+		long stopTime = System.nanoTime();
+		System.out.println(stopTime - startTime+" nano seconds");
+		
 	}
 
 }
