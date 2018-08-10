@@ -1,5 +1,11 @@
 import java.util.Random;
 
+/**
+ * @author Daniela Parrales
+ * A01228629
+ * 09/August/2018
+ */
+
 public class Question3 {
 	private int N;
 	private int random;

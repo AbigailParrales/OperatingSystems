@@ -1,5 +1,10 @@
 import java.util.Scanner;
 
+/**
+ * @author Daniela Parrales
+ * A01228629
+ * 09/August/2018
+ */
 public class Question1 {
 	private String original_string;
 

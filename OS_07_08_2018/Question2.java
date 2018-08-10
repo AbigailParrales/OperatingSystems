@@ -1,5 +1,11 @@
 import javax.swing.JOptionPane;
 
+/**
+ * @author Daniela Parrales
+ * A01228629
+ * 09/August/2018
+ */
+
 public class Question2 {
 	private Heap testHeap;
 

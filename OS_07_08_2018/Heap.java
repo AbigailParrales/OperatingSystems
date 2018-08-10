@@ -1,5 +1,11 @@
 public class Heap {
 
+	/**
+	 * @author Daniela Parrales
+	 * A01228629
+	 * 09/August/2018
+	 */
+	
 	public int length;
 	public int size;     // Number of elements in heap
 	public int[] A;     // The heap array
